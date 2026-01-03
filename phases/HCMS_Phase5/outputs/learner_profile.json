@@ -1,0 +1,12 @@
+[
+    {
+        "concept": "Conditionals",
+        "mastery": 0.4,
+        "confidence_alignment": 0.9
+    },
+    {
+        "concept": "Variables",
+        "mastery": 0.2,
+        "confidence_alignment": 0.6
+    }
+]

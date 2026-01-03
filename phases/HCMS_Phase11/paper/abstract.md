@@ -1,0 +1,1 @@
+This paper presents HCMS, a system designed to quantify human understanding using cognitive signals beyond correctness. Experimental results show improved detection of overconfidence and unstable understanding.

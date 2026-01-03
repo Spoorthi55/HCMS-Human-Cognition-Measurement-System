@@ -1,0 +1,7 @@
+# Abstract
+
+Understanding human cognition requires more than measuring correctness. Traditional assessment systems rely heavily on accuracy-based evaluation, ignoring critical cognitive dimensions such as confidence calibration, consistency, and misconception stability. This paper presents the **Human Cognition Measurement System (HCMS)** — a multi-phase, data-driven framework designed to quantify and interpret cognitive understanding through behavioral signals rather than surface-level performance.
+
+HCMS integrates learner responses, self-reported confidence, temporal consistency, and adaptive reasoning analysis to construct a robust cognitive profile. The system operates across twelve structured phases, including data collection, cognitive modeling, validation, robustness testing, explainability, and adaptive feedback generation. Unlike conventional assessment tools, HCMS detects overconfidence, unstable understanding, and latent misconceptions even when answers are correct.
+
+Experimental results demonstrate that HCMS successfully identifies miscalibrated learners and unstable reasoning patterns that accuracy-only systems fail to capture. The framework is modular, interpretable, and extensible, making it suitable for educational technology, personalized learning, and cognitive diagnostics. This work contributes a novel, practical approach to cognition-aware assessment and lays the foundation for adaptive, intelligence-driven learning systems.

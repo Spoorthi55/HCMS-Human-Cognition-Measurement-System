@@ -1,0 +1,10 @@
+User: Rayan
+Concept: Conditionals
+Mastery: 0.50
+Confidence: 0.80
+Consistency: 0.67
+
+Diagnosis:
+- Partial understanding
+- Overconfident
+- Needs calibration training

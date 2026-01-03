@@ -1,0 +1,46 @@
+2025-12-24 18:34:06.216149,Rayan,Conditionals,"What will be printed?
+
+x = 10
+if x > 5:
+    print('A')
+else:
+    print('B')
+",A,as 10 is greater than 5,3,True
+2025-12-24 18:34:46.783225,Rayan,Conditionals,"What will be printed?
+
+x = 10
+if x > 5:
+    print('A')
+else:
+    print('B')
+",A,as 10 is greater than 5,3,True
+2025-12-24 18:34:49.619297,Rayan,Conditionals,"What will be printed?
+
+x = 10
+if x > 5:
+    print('A')
+else:
+    print('B')
+",A,as 10 is greater than 5,3,True
+2025-12-24 18:34:49.950230,Rayan,Conditionals,"What will be printed?
+
+x = 10
+if x > 5:
+    print('A')
+else:
+    print('B')
+",A,as 10 is greater than 5,3,True
+2025-12-24 18:34:52.417076,Rayan,Variables,"What is the value of x after execution?
+
+x = 5
+x = x + 3
+print(x)
+",A,as 10 is greater than 5,2,False
+2025-12-24 18:34:56.736958,Rayan,Conditionals,"What will be printed?
+
+x = 10
+if x > 5:
+    print('A')
+else:
+    print('B')
+",A,as 10 is greater than 5,4,True

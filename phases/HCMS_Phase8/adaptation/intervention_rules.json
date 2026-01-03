@@ -1,0 +1,21 @@
+{
+  "overconfidence": {
+    "condition": {
+      "calibration": "Miscalibrated",
+      "confidence_gt_accuracy": true
+    },
+    "action": "reduce_confidence_prompt"
+  },
+  "partial_understanding": {
+    "condition": {
+      "understanding_level": "Partial Understanding"
+    },
+    "action": "targeted_remediation"
+  },
+  "low_consistency": {
+    "condition": {
+      "consistency_lt": 0.75
+    },
+    "action": "reinforcement_practice"
+  }
+}

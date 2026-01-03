@@ -1,0 +1,19 @@
+{
+    "feedback": [],
+    "remediation": {
+        "strategy": "Concept Breakdown",
+        "steps": [
+            "Re-explain the concept in your own words",
+            "Solve a simpler example",
+            "Explain why wrong options are wrong"
+        ]
+    },
+    "reinforcement": {
+        "strategy": "Reinforcement Loop",
+        "steps": [
+            "Solve 3 similar questions consecutively",
+            "No confidence rating allowed",
+            "Only submit final answer after reasoning"
+        ]
+    }
+}

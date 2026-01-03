@@ -1,0 +1,14 @@
+{
+  "Conditionals": [
+    {
+      "pattern": "else always runs",
+      "misconception": "Misunderstands conditional branching"
+    }
+  ],
+  "Variables": [
+    {
+      "pattern": "variable stores equation",
+      "misconception": "Confuses assignment with equality"
+    }
+  ]
+}

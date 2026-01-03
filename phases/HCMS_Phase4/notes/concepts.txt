@@ -1,0 +1,5 @@
+1. Variables
+2. Assignment vs Equality
+3. Data Types
+4. Order of Execution
+5. Conditionals

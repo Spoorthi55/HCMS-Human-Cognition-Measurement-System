@@ -1,0 +1,14 @@
+{
+  "data_paths": {
+    "responses": "../HCMS_Phase4/data/responses.csv",
+    "cognitive_state": "../HCMS_Ph4/data/cognitive_state.csv"
+  },
+  "phases_enabled": {
+    "analysis": true,
+    "modeling": true,
+    "validation": true,
+    "interpretation": true,
+    "adaptation": true
+  },
+  "output_path": "./outputs/final_profile.json"
+}
