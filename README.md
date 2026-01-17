@@ -8,6 +8,12 @@
 
 ---
 
+📄 **Preprint (DOI-backed)**  
+**Beyond Correctness: Measuring Cognitive Stability and Confidence Calibration in Human Understanding**  
+Zenodo (v1.0): https://doi.org/10.5281/zenodo.18269740
+
+---
+
 **An AI-driven framework for measuring human understanding, confidence calibration, and cognitive stability.**
 
 The **Human Cognition Measurement System (HCMS)** is a research-grade cognitive assessment framework designed to move beyond right-or-wrong evaluation. Rather than treating intelligence as a static score, HCMS models **how a learner thinks**, **how confident they are**, **how consistent their reasoning remains**, and **how well-calibrated their understanding truly is**.
