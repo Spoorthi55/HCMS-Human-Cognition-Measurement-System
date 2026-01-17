@@ -1,11 +1,21 @@
 # Related Work
 
-Traditional assessment systems primarily rely on correctness-based evaluation, a paradigm deeply rooted in standardized testing and automated grading systems. While efficient, such approaches fail to capture deeper cognitive properties such as reasoning stability and metacognitive awareness.
+Assessment systems have traditionally emphasized correctness-based evaluation, an approach rooted in standardized testing and automated grading. While effective for scalable performance measurement, such methods reduce understanding to a single observable outcome and overlook deeper cognitive properties.
 
-Research in educational psychology has highlighted the role of **metacognition**, particularly confidence monitoring and self-regulation, in effective learning. Studies on confidence calibration show that learners often exhibit systematic biases, including overconfidence and underconfidence, which directly impact learning outcomes. However, these insights are rarely embedded into computational assessment systems.
+### Metacognition and Confidence Calibration
 
-Intelligent Tutoring Systems (ITS) and adaptive learning platforms have attempted to personalize instruction using learner models, often based on Bayesian Knowledge Tracing or Item Response Theory. While these models estimate mastery probabilities, they typically treat confidence and consistency as secondary or implicit signals.
+Educational psychology research has long established the importance of metacognition, particularly learners’ ability to monitor and regulate their own understanding. Studies on confidence calibration demonstrate that systematic overconfidence and underconfidence are common and directly impact learning outcomes. However, these findings are typically examined in controlled psychological studies and are rarely operationalized in computational assessment systems.
 
-Recent work in learning analytics has explored behavioral features such as response time, attempt patterns, and revision frequency. Although promising, many of these approaches lack interpretability and robustness under real-world noise.
+### Learner Modeling and Intelligent Tutoring Systems
 
-HCMS differentiates itself by explicitly modeling cognition as a **multi-signal construct**, integrating accuracy, confidence, consistency, and misconception dynamics into a unified, explainable framework. Unlike black-box models, HCMS prioritizes transparency and cognitive interpretability, aligning computational outputs with educational theory.
+Intelligent Tutoring Systems (ITS) and learner modeling approaches, including Bayesian Knowledge Tracing and Item Response Theory, estimate latent mastery states based on observed performance. While effective for modeling knowledge acquisition, these methods generally treat confidence, stability, and metacognitive behavior as implicit or secondary signals.
+
+### Learning Analytics and Behavioral Features
+
+Recent work in learning analytics has explored behavioral indicators such as response time, attempt frequency, and revision patterns. Although these approaches provide richer signals than correctness alone, many rely on complex or opaque models that limit interpretability and robustness under real-world noise.
+
+### Positioning of HCMS
+
+HCMS differs from prior work by explicitly modeling cognition as a multi-signal measurement problem. Rather than optimizing prediction accuracy, HCMS focuses on interpretability, stability, and metacognitive alignment. Confidence, consistency, and robustness are treated as first-class cognitive signals rather than auxiliary features.
+
+By integrating these dimensions into a unified, transparent framework, HCMS complements existing assessment and tutoring systems while addressing cognitive properties that are underrepresented in current computational approaches.

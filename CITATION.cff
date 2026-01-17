@@ -1,10 +1,12 @@
 cff-version: 1.2.0
-title: "Human Cognition Measurement System (HCMS)"
+title: "Beyond Correctness: Measuring Cognitive Stability and Confidence Calibration in Human Understanding"
 message: "If you use this work, please cite it as below."
+type: software
 authors:
   - family-names: Shahid
     given-names: Muhammad Rayan
-version: 1.0.0
-date-released: 2026-01-03
+doi: 10.5281/zenodo.18269740
+version: 1.0
+date-released: 2026-01-16
 url: https://github.com/RayanAIX/HCMS-Human-Cognition-Measurement-System
 license: MIT
